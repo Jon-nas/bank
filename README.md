@@ -8,7 +8,7 @@ Objetivo: implementar três operações essenciais:
 
 O sistema é desenvolvido, simulando um banco que busca monetizar suas operações de forma funcional.
 
-Linguagem e ferramentas Ultilizadas:
+Linguagem e ferramentas Utilizadas:
 
     Python.
     Git.
