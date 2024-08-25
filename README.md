@@ -5,7 +5,7 @@ Objetivo: implementar três operações essenciais:
     . Depósito;
     . Saque;
     . Extrato;
-    . Usuario;
+    . Usuário;
     . Conta.
 
 O sistema é desenvolvido, simulando um banco que busca monetizar suas operações de forma funcional.
