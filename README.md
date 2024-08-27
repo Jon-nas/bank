@@ -1,6 +1,6 @@
 # Sistema Bancário em Python. 
 
-Objetivo: implementar três operações essenciais:
+Operações funcionais:
 
     . Depósito;
     . Saque;
