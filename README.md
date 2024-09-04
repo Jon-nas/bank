@@ -1,15 +1,19 @@
-# Sistema Bancário em Python. 
+# Sistema Bancário usando Python.
 
-Operações funcionais:
+Operações iniciais:
 
     . Depósito;
     . Saque;
     . Extrato;
-    . Usuário;
-    . Conta.
 
-O sistema é desenvolvido, simulando um banco que busca monetizar suas operações de forma funcional.
+Implementaões de operações funcionais do menu:
 
-Linguagem e ferramentas Utilizadas:
+    . Cadastro de novos usuários;
+    . Cadastro de novas contas;
+    . Lista de contas.
+
+O sistema é desenvolvido com base em programaão orientada a objetos, simulando um banco que busca monetizar suas operações de forma funcional.
+
+Linguagem Utilizadas:
 
     Python.
